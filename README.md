@@ -1,2 +1,2 @@
 # DataMapper
-a Mapping library that creates objects from ado.net datasets and data rows
+A mapping library that creates objects from ado.net datasets and data rows
